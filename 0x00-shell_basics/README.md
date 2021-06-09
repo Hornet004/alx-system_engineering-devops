@@ -6,4 +6,6 @@
 >
 **4 - The content in the 3-listfiles displays current directory contents in a long format**
 >
-**5 - The content in the 3-listmorefiles displays current directory contents including hidden files  in a long format**
+**5 - The content in the 4-listmorefiles displays current directory contents including hidden files  in a long format**
+>
+**6 - The content in the 5-listfilesdigitonly displays current directory contents numerically including hidden files in a long format**
