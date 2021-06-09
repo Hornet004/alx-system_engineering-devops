@@ -11,3 +11,5 @@
 **6 - The content in the 5-listfilesdigitonly displays current directory contents numerically including hidden files in a long format**
 >
 **7 - The content in 6-firstdirectory creates a directory named "holberton" in the /tmp/ directory**
+>
+**8 - The content in 7-movethatfile moves file betty from /tmp/ to /tmp/holberton**
