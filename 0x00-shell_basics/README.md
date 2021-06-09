@@ -28,3 +28,6 @@
 
 >
 **13 - The content in 12-file_type file prints the file type of the file iamafile in the directory /tmp**
+
+>
+**14 - The content in 13-symbolic_link file creates a symbolic link _ls_ to  /bin/ls **
