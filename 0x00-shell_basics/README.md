@@ -16,3 +16,6 @@
 
 >
 **9 - The content in 8-firstdelete file deletes the file betty from /tmp/holberton**
+
+>
+**10 - The content in 9-firstdirdeletion deletes the folder holberton from /tmp**
