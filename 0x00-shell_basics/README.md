@@ -13,3 +13,6 @@
 **7 - The content in 6-firstdirectory creates a directory named "holberton" in the /tmp/ directory**
 >
 **8 - The content in 7-movethatfile moves file betty from /tmp/ to /tmp/holberton**
+
+>
+**9 - The content in 8-firstdelete file deletes the file betty from /tmp/holberton**
