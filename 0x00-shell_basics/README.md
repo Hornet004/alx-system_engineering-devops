@@ -25,3 +25,6 @@
 
 >
 **12 - The content in 11-lists lis all files in /boot including period characters in a long format**
+
+>
+**13 - The content in 12-file_type file prints the  file type of the file iamafile in the directory /tmp**
