@@ -22,3 +22,6 @@
 
 >
 **11 - The content in 10-back changes directory to the previous directory**
+
+>
+**12 - The content in 11-lists lis all files in /boot including period characters in a long format**
