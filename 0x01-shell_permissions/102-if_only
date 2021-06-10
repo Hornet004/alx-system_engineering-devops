@@ -1,2 +1,2 @@
 #!/bin/bash
-if [groups === guillname] then chown betty hello
+if [chuser === guillname] then chown betty hello
