@@ -1,2 +1,2 @@
 #!/bin/bash
-if [chuser === guillname] then chown betty hello
+chown betty hello if[chown==guillaume] fi
