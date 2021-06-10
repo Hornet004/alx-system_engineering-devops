@@ -1,2 +1,2 @@
 #!/bin/bash
-if [chgrp guillname] then chown betty hello
+if [groups === guillname] then chown betty hello
