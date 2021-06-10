@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty hello if[chown==guillaume] fi
+if[chown==guillaume] betty hello  fi
